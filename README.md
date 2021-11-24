@@ -5,7 +5,7 @@
 Aqui esta um resumo sobre o que eu faço:
 
 - 🔭 Sou desenvolvedor de Software
-- 🌱 Tenho dominio em tecnologias como Vuejs, Laravel, Docker, Nodejs e Linux
+- 🌱 Tenho dominio em tecnologias como Vuejs, Nuxtjs, Laravel, Docker, Nodejs e Linux
 - 👯 Sou entusiasta para desenvolvimento mobile com Flutter
 - 🤔 Sou aspirante a admnistração de Linux, pq até o momento não posso ter o certificado mais querido da Red Hat
 
