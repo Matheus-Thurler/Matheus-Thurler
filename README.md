@@ -54,5 +54,6 @@
 <a href="https://www.youtube.com/channel/UCHVZvp_RfNpwfATmQ-NaDyw" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-matheu thurler-06122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
+  ![Snake animation](https://github.com/Matheus-Thurler/Matheus-Thurler/blob/output/github-contribution-grid-snake.svg)
 </p>
-![Snake animation](https://github.com/Matheus-Thurler/blob/output/github-contribution-grid-snake.svg)
+
