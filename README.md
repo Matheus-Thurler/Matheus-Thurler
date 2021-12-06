@@ -52,9 +52,9 @@
   <img align="center" src="https://img.shields.io/badge/-matheus thurler-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.youtube.com/channel/UCHVZvp_RfNpwfATmQ-NaDyw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-matheu thurler-06122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-matheusthurler-06122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-![Snake animation](https://raw.githubusercontent.com/Matheus-Thurler/Matheus-Thurler/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Matheus-Thurler/Matheus-Thurler/output/github-contribution-grid-snake.svg)"/>
 
 
