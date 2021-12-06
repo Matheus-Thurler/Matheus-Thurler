@@ -55,6 +55,6 @@
  <img align="center" src="https://img.shields.io/badge/-matheusthurler-06122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-<img src="https://raw.githubusercontent.com/Matheus-Thurler/Matheus-Thurler/output/github-contribution-grid-snake.svg)"/>
+<img src="https://raw.githubusercontent.com/Matheus-Thurler/Matheus-Thurler/output/github-contribution-grid-snake.svg"/>
 
 
