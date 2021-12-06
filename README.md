@@ -45,9 +45,6 @@
 
 <p align="left" style="background:yellow">
 
-<a href="https://twitter.com/matheusthurler_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-matheusthurler_-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/matheus-thurler-34519870/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-matheus thurler-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
