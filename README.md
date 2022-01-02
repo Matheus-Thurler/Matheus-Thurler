@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Matheus-Thurler/d68529a7a87cc4f997f04c59d64d5b2b/raw/9e777fa1265f95603f4aba5b6fb29b6d83642b76/profile.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Thurler</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-THurler&color=yellow" alt="Profile views" /> </p>
 
