@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-THurler&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 FullStack Developer
-- 🔭 I’m currently working at Rg Sistemas
+- 🔭 I’m currently working at EZops Cloud
 
 - 👨‍💻 All of my projects are available at [matheusthurler.com.br](https://matheusthurler.com.br) (development!)
 
