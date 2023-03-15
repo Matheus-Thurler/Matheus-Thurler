@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Matheus Thurler</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-THurler&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 FullStack Developer
+- 🔥 DevOps Engineer
 - 🔭 I’m currently working at EZops Cloud
 
 - 👨‍💻 All of my projects are available at [matheusthurler.com.br](https://matheusthurler.com.br) (development!)
