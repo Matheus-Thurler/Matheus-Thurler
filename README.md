@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-THurler&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 DevOps Engineer
-- 🔭 I’m currently working at EZops Cloud
+- 🔭 I’m currently working at CI&T
 
 - 👨‍💻 All of my projects are available at [matheusthurler.com.br](https://matheusthurler.com.br) (development!)
 
