@@ -3,7 +3,6 @@
 
 - 🔥 DevOps Engineer
 - 🔭 I’m currently working at CI&T
-<iframe src="https://github.com/sponsors/Matheus-Thurler/card" title="Sponsor Matheus-Thurler" height="225" width="600" style="border: 0;"></iframe>
 
 - 👨‍💻 All of my projects are available at [matheusthurler.com.br](https://matheusthurler.com.br) (development!)
 
