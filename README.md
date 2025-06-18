@@ -4,30 +4,12 @@
 - 🔥 DevOps Engineer
 - 🔭 I’m currently working at CI&T
 
-- 👨‍💻 All of my projects are available at [matheusthurler.com.br](https://matheusthurler.com.br) (development!)
+- 👨‍💻 All of my projects are available at [matheusthurler.com.br](https://matheusthurler.com.br)
 
 - ▶️ I regularly post videos on [youtube.com/matheuthurler](https://www.youtube.com/channel/UCHVZvp_RfNpwfATmQ-NaDyw) (creating content
 !))
 
 - 💬 Ask me about **Nuxt, Python, Laravel,  Node.JS**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt.js.js-05122A?style=flat&logo=nuxt.js)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Adonis.js](https://img.shields.io/badge/-Adonis.js-05122A?style=flat&logo=adonisjs)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Mysql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 <br><br>
 
