@@ -9,7 +9,7 @@
 - ▶️ I regularly post videos on [youtube.com/matheuthurler](https://www.youtube.com/channel/UCHVZvp_RfNpwfATmQ-NaDyw) (creating content
 !))
 
-- 💬 Ask me about **Nuxt, Python, Laravel,  Node.JS**
+
 
 <br><br>
 
