@@ -26,7 +26,7 @@
 
 ### 🎯 Current Focus
 
-- 🏆 Google Cloud Innovator program
+- 🏆 Google Developer Expert
 - 🤖 Google GEAR — Generative AI
 - 📚 DevOps course series on Hotmart
 - 📝 Content creation (YouTube + Blog)
