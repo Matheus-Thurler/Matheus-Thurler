@@ -35,7 +35,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-matheusthurler.com.br-blue?style=flat&logo=hugo)](https://www.matheusthurler.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-@matheusthurler-red?style=flat&logo=youtube)](https://youtube.com/@matheusthurler)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Thurler-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheusthurler)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Thurler-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-thurler-34519870/)
 
 <br>
 
