@@ -35,6 +35,7 @@
 ### Current Focus
 
 - Google Cloud Innovator program
+- Google Developer Experts (Cloud)
 - Google GEAR — Generative AI for DevOps
 - DevOps course series on Hotmart
 - Weekly content on [YouTube](https://youtube.com/@matheusthurler) and [blog](https://matheusthurler.com.br)
