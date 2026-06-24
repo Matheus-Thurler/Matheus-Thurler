@@ -4,14 +4,22 @@
 
 ### DevOps & Platform Engineer | Google Cloud | SRE | AI
 
-- 🔥 DevOps & Platform Engineer at **CI&T**
-- ☁️ Focused on **Google Cloud Platform**, Infrastructure as Code, and SRE
-- 🤖 Exploring **AI/ML for DevOps** — Vertex AI, Gemini, MLOps
-- 🏠 Running a **homelab** with Apache CloudStack & Kubernetes
-- 🎓 Building a **DevOps course series** (coming soon)
-- 📺 Creating content about DevOps, Cloud & Automation
+- DevOps & Platform Engineer at **CI&T**
+- Focused on **Google Cloud Platform**, Infrastructure as Code, and SRE
+- Exploring **AI/ML for DevOps** — Vertex AI, Gemini, MLOps
+- Running a **homelab** with Apache CloudStack & Kubernetes
+- Building a **DevOps course series** (coming soon)
+- Creating content about DevOps, Cloud & Automation
 
-### 🔧 Tech Stack
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [terraform-google-gke-spot](https://github.com/Matheus-Thurler/terraform-google-gke-spot) | Terraform module for cost-effective GKE clusters with spot instances — [Terraform Registry](https://registry.terraform.io/modules/Matheus-Thurler/spot/gke/latest) |
+| [ansible-cloudstack](https://github.com/Matheus-Thurler/ansible-cloudstack) | Apache CloudStack deployment automation with Ansible |
+| [youtube-projects](https://github.com/Matheus-Thurler/youtube-projects) | Code and configs from [@matheusthurler](https://youtube.com/@matheusthurler) tutorials |
+
+### Tech Stack
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -24,22 +32,23 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🎯 Current Focus
+### Current Focus
 
-- 🏆 Google Developer Expert
-- 🤖 Google GEAR — Generative AI
-- 📚 DevOps course series on Hotmart
-- 📝 Content creation (YouTube + Blog)
+- Google Cloud Innovator program
+- Google GEAR — Generative AI for DevOps
+- DevOps course series on Hotmart
+- Weekly content on [YouTube](https://youtube.com/@matheusthurler) and [blog](https://matheusthurler.com.br)
 
-### 🔗 Links
+### Links
 
 [![Blog](https://img.shields.io/badge/Blog-matheusthurler.com.br-blue?style=flat&logo=hugo)](https://www.matheusthurler.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-@matheusthurler-red?style=flat&logo=youtube)](https://youtube.com/@matheusthurler)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Thurler-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-thurler-34519870/)
+[![Terraform Registry](https://img.shields.io/badge/Terraform_Registry-gke--spot-7B42BC?style=flat&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/Matheus-Thurler/spot/gke/latest)
 
 <br>
 
-## ⚙️ GitHub Analytics
+## GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Thurler&show_icons=true&theme=nord" alt="Matheus-Thurler's stats"/>
