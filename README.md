@@ -15,7 +15,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [terraform-google-gke-spot](https://github.com/Matheus-Thurler/terraform-google-gke-spot) | Terraform module for cost-effective GKE clusters with spot instances — [Terraform Registry](https://registry.terraform.io/modules/Matheus-Thurler/spot/gke/latest) |
+| [terraform-google-gke-spot](https://github.com/Matheus-Thurler/terraform-google-gke-spot) | Terraform module for cost-effective GKE clusters with spot instances — [Terraform Registry](https://registry.terraform.io/modules/Matheus-Thurler/gke-spot/google/latest) |
 | [ansible-cloudstack](https://github.com/Matheus-Thurler/ansible-cloudstack) | Apache CloudStack deployment automation with Ansible |
 | [youtube-projects](https://github.com/Matheus-Thurler/youtube-projects) | Code and configs from [@matheusthurler](https://youtube.com/@matheusthurler) tutorials |
 
@@ -44,7 +44,7 @@
 [![Blog](https://img.shields.io/badge/Blog-matheusthurler.com.br-blue?style=flat&logo=hugo)](https://www.matheusthurler.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-@matheusthurler-red?style=flat&logo=youtube)](https://youtube.com/@matheusthurler)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Thurler-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-thurler-34519870/)
-[![Terraform Registry](https://img.shields.io/badge/Terraform_Registry-gke--spot-7B42BC?style=flat&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/Matheus-Thurler/spot/gke/latest)
+[![Terraform Registry](https://img.shields.io/badge/Terraform_Registry-gke--spot-7B42BC?style=flat&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/Matheus-Thurler/gke-spot/google/latest)
 
 <br>
 
