@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-Thurler&color=yellow" alt="Profile views" /> </p>
 
-### Creator of [VirtFoundry](https://github.com/virtfoundry) · DevOps & Platform Engineer | Google Cloud | SRE | AI
+### Creator of [VirtFoundry](https://virtfoundry.github.io/helm-charts/docs/) · DevOps & Platform Engineer | Google Cloud | SRE | AI
 
-- **Creator of [VirtFoundry](https://github.com/virtfoundry)** — declarative private cloud IaaS on Kubernetes (KubeVirt)
+- **Creator of [VirtFoundry](https://virtfoundry.github.io/helm-charts/docs/)** — declarative private cloud IaaS on Kubernetes (KubeVirt)
 - DevOps & Platform Engineer at **CI&T**
 - Focused on **Google Cloud Platform**, Infrastructure as Code, and SRE
 - Exploring **AI/ML for DevOps** — Vertex AI, Gemini, MLOps
@@ -16,7 +16,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [VirtFoundry](https://github.com/virtfoundry) | Declarative private cloud IaaS on Kubernetes — multi-tenant VMs, volumes, networks, templates + Terraform provider — [docs](https://virtfoundry.github.io/helm-charts/docs/) |
+| [VirtFoundry](https://virtfoundry.github.io/helm-charts/docs/) | Declarative private cloud IaaS on Kubernetes — multi-tenant VMs, volumes, networks, templates + Terraform provider — [GitHub](https://github.com/virtfoundry) |
 | [terraform-google-gke-spot](https://github.com/Matheus-Thurler/terraform-google-gke-spot) | Terraform module for cost-effective GKE clusters with spot instances — [Terraform Registry](https://registry.terraform.io/modules/Matheus-Thurler/gke-spot/google/latest) |
 | [ansible-cloudstack](https://github.com/Matheus-Thurler/ansible-cloudstack) | Apache CloudStack deployment automation with Ansible |
 | [youtube-projects](https://github.com/Matheus-Thurler/youtube-projects) | Code and configs from [@matheusthurler](https://youtube.com/@matheusthurler) tutorials |
@@ -36,7 +36,7 @@
 
 ### Current Focus
 
-- Building and growing **[VirtFoundry](https://github.com/virtfoundry)** (open-source private cloud on KubeVirt)
+- Building and growing **[VirtFoundry](https://virtfoundry.github.io/helm-charts/docs/)** (open-source private cloud on KubeVirt)
 - Google Cloud Innovator program
 - Google Developer Experts (Cloud)
 - Google GEAR — Generative AI for DevOps
@@ -45,8 +45,8 @@
 
 ### Links
 
-[![VirtFoundry](https://img.shields.io/badge/VirtFoundry-private_cloud_on_K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/virtfoundry)
-[![Docs](https://img.shields.io/badge/Docs-virtfoundry-0A66C2?style=flat&logo=gitbook&logoColor=white)](https://virtfoundry.github.io/helm-charts/docs/)
+[![VirtFoundry](https://img.shields.io/badge/VirtFoundry-private_cloud_on_K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://virtfoundry.github.io/helm-charts/docs/)
+[![GitHub](https://img.shields.io/badge/GitHub-virtfoundry-181717?style=flat&logo=github&logoColor=white)](https://github.com/virtfoundry)
 [![Blog](https://img.shields.io/badge/Blog-matheusthurler.com.br-blue?style=flat&logo=hugo)](https://www.matheusthurler.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-@matheusthurler-red?style=flat&logo=youtube)](https://youtube.com/@matheusthurler)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Thurler-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-thurler-34519870/)
