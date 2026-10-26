@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-Thurler&color=yellow" alt="Profile views" /> </p>
 
-### Creator of [VirtFoundry](https://virtfoundry.github.io/helm-charts/docs/) · DevOps & Platform Engineer | Google Cloud | SRE | AI
+### Creator of [VirtFoundry](https://virtfoundry.github.io/helm-charts/docs/) · DevOps & AI Platform Engineer | Cloud | SRE | AI
 
 - **Creator of [VirtFoundry](https://virtfoundry.github.io/helm-charts/docs/)** — declarative private cloud IaaS on Kubernetes (KubeVirt)
 - DevOps & Platform Engineer at **CI&T**
